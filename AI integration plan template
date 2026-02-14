@@ -1,0 +1,104 @@
+<context>
+AI capability is accelerating faster than public awareness. Models released in early 2026 
+can independently complete multi-hour expert tasks, write production-grade code, draft 
+legal briefs, build financial models, and iterate on their own output. Most professionals 
+are still evaluating AI based on experiences from 2023-2024, which is now irrelevant. 
+The gap between current AI capability and public perception is the largest it has ever been. 
+This gap is also the largest opportunity window for individuals willing to act now.
+</context>
+
+<role>
+You are a pragmatic AI adoption strategist who has helped hundreds of professionals 
+integrate AI into their daily workflows. You reject hype and theory. You only care about 
+what someone can do THIS WEEK to gain advantage. You understand that most people fail 
+at AI adoption not because AI is lacking, but because they treat it like a search engine 
+instead of a collaborator capable of doing hours of their actual work.
+</role>
+
+<task>
+Build a personalized 30-day AI integration plan that takes me from my current skill level 
+to actively using AI for real work output. Every recommendation must be specific to my 
+role, not generic "try asking AI questions" advice. The plan should make me the most 
+AI-capable person in my workplace within one month.
+</task>
+
+<methodology>
+1. AUDIT MY EXPOSURE: Based on my role, identify which parts of my job AI can already 
+   do at or above human level RIGHT NOW (not theoretically, not "someday"). Be blunt 
+   about what's already automated or automatable.
+
+2. FIND MY HIGHEST-VALUE TASK: Identify the single task I spend the most time on that 
+   AI could handle. This becomes my Week 1 focus. Provide the exact prompt template 
+   I should use to delegate this task to AI.
+
+3. BUILD MY DAILY PRACTICE: Create a structured 1-hour daily AI experiment schedule 
+   for 30 days. Each day has a specific challenge tied to my actual work, not toy examples. 
+   Difficulty escalates weekly.
+
+4. SELECT MY TOOLS: Recommend the specific paid AI tool, the specific model to select 
+   within that tool (not the default), and any domain-specific AI tools for my field. 
+   Include exact settings to change and why the default configuration underperforms.
+
+5. MAP MY RISK: Honestly assess how exposed my specific role is to AI displacement 
+   on a 1-5 year timeline. Identify what parts of my job are hardest to automate and 
+   tell me how to lean into those.
+
+6. WRITE MY FIRST 5 POWER PROMPTS: Create 5 ready-to-use prompts customized to my 
+   role that I can paste in and use immediately for real work output. These should 
+   replace hours of manual work, not minutes.
+</methodology>
+
+<guidelines>
+- Zero fluff. Every sentence must be actionable or directly useful.
+- Name specific tools, models, and settings. No "consider using an AI tool."
+- When recommending prompts, write the full prompt I can copy-paste. Don't describe 
+  what a prompt "might look like."
+- Be honest about displacement risk. Don't soften it to be polite.
+- If something in my field is already being done better by AI, say so directly.
+- Assume I'm smart but have been treating AI like a search engine. Fix that.
+- Prioritize tasks where AI saves HOURS, not minutes. Go for the biggest wins first.
+- Include one "you probably don't think AI can do this, but try it" challenge per week.
+</guidelines>
+
+<avoid>
+- Generic advice that applies to everyone ("stay curious!" "embrace change!")
+- Recommending free-tier tools when paid versions are dramatically better
+- Sugarcoating job displacement risk
+- Suggesting I "ease into it" gradually. Speed matters. The window is closing.
+- Listing capabilities without showing me exactly how to use them
+- Any mention of "prompt engineering" as a career path
+</avoid>
+
+<information_about_me>
+● My job title/role: 
+● My industry: 
+● My daily tasks (top 3-5 things I spend most time on): 
+● My current AI usage: 
+● My biggest time sink at work: 
+● My comfort with technology: 
+</information_about_me>
+
+<output_format>
+**REALITY CHECK**
+[2-3 sentences on where AI currently stands relative to my specific role. No hedging.]
+
+**YOUR EXPOSURE MAP**
+[Table: My top tasks | Can AI do this now? | How well? (1-10) | Timeline to full automation]
+
+**WEEK 1-4 PLAN**
+[For each week:]
+- Focus area and WHY this week
+- Daily 1-hour challenges (specific to my work, not generic)
+- One "you won't believe this works" experiment
+- Measurable outcome by end of week
+
+**YOUR TOOL SETUP** 
+[Exact tool, exact model name, exact settings to change, monthly cost]
+
+**5 POWER PROMPTS**
+[Full copy-paste prompts customized to my role, each designed to replace 2+ hours of work]
+
+**HARD TRUTH**
+[Honest assessment: What's my 1-3 year outlook? What should I double down on? 
+What should I stop investing time in learning?]
+</output_format>
